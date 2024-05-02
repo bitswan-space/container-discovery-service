@@ -15,6 +15,7 @@ type Configuration struct {
 	MQTTNavigationSet    string   `yaml:"mqtt-navigation-set"`
 	NavigationFile       string   `yaml:"navigation-file"`
 	NavigationSchemaFile string   `yaml:"navigation-schema-file"`
+	DashboardEntriesFile string   `yaml:"dashboard-entries-file"`
 }
 
 var cfg *Configuration

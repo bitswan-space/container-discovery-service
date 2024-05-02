@@ -5,3 +5,4 @@ mqtt-navigation-topic: /topology
 mqtt-navigation-set: /topology/set
 navigation-file: /conf/navigation_menu.json
 navigation-schema-file: /conf/navigation_schema.json
+dashboard-entries-file: /conf/dashboard_entries.json
